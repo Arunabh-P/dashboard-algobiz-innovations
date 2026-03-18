@@ -19,7 +19,7 @@ Project Setup
 
 # Clone the repository
 
-git clone
+git clone <https://github.com/Arunabh-P/dashboard-algobiz-innovations.git>
 
 # Navigate to project
 
