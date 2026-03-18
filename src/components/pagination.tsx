@@ -37,7 +37,7 @@ const PaginationTab = memo(({ handleSetPage, page, totalPages }: PaginationTabPr
     }, [page, totalPages]);
 
     return (
-        <Pagination className="mt-6 fixed bottom-0 left-0 mb-5 bg-background ">
+        <Pagination className="mt-6 fixed bottom-0 left-0 pb-5 bg-background ">
             <PaginationContent>
                 <PaginationItem>
                     <PaginationPrevious

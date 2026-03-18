@@ -100,3 +100,7 @@ Assumptions & Trade-offs
 Used pagination instead of infinite scroll for simplicity and better control
 Focused more on functionality and architecture than heavy UI design
 Used public API (dummyjson) for demonstration purposes
+
+Live Demo
+
+https://dashboard-algobiz-innovations.vercel.app/
